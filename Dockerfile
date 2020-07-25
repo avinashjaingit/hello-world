@@ -3,4 +3,4 @@ From ubuntu:18.04
 
 # Maintainer 
 MAINTAINER "valaxytech@gmail.com" 
-COPY ./webapp.war /E:/
+COPY . /E:/
